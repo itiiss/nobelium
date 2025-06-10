@@ -1,8 +1,8 @@
 const BLOG = {
   title: '一意専心',
-  author: 'Itiss',
+  author: 'Itisssennsinn',
   email: 'ittisennsinn@gmail.com',
-  link: 'https://itiisennsinn.vercel.app',
+  link: 'blog.furouchou.org',
   description: ' ',
   lang: 'zh-CN', //['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES'],
   appearance: 'auto', // ['light', 'dark', 'auto'],
